@@ -44,5 +44,4 @@ The Python example is available in `test_commands.py`. Use the following command
 For issues or questions, please use the issue tracker associated with this project.
 
 ## License
-This project is licensed under the MIT License. Feel free to use and modify the libraries as needed for your own projects.
-
+This project is licensed under the Apache License 2.0 License. Feel free to use and modify the libraries as needed for your own projects.
